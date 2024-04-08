@@ -40,12 +40,19 @@ The overview of the project "2021 PayPal Transactions Data Analysis: Categorizin
 
 ## Data Visualizations and Analysis
  - Visualize how the number and total amount of transactions vary over different months throughout the year 2021.
+ <img src="ReadmeImages/number_amount_transactions_monthly.png" alt="Number and total amount of transactions monthly" width="800" />
  - Visualize the distribution of transaction counts by merchant names in a pie chart.
+ <img src="ReadmeImages/distribution_transactions_merchant.png" alt="Distribution of Transactions by Merchant" width="800" />
  - Visualize how the number and total amount of transactions vary over different quarters throughout the year 2021.
+ <img src="ReadmeImages/total_amount_tansactions_quarterly.png" alt="Number and total amount of transactions quarterly" width="800" />
  - Visualize the distribution of spending across different merchant categories.
+ <img src="ReadmeImages/spending_distribution_across_merchant_categories.png" alt="Spending Distribution Across Merchant Categories" width="800" />
  - Determine which merchants you spent the most with during the year and analyze your spending behavior with each merchant
+ <img src="ReadmeImages/merchants_spent_most.png" alt="Determine which merchants you spent the most" width="800" />
  - Visualize the distribution of transaction statuses.
+<img src="ReadmeImages/distribution_transaction_statuses.png" alt="Distribution of Transaction Statuses" width="800" /> 
  - Generate a line graph showing how your account balance changed over time as a result of the transactions.
+<img src="ReadmeImages/account_balance_over_time.png" alt="Account Balance Over Time" width="800" /> 
 
  ## Summary
  The project "2021 PayPal Transactions Data Analysis: Categorizing and Analyzing Spending Patterns" focuses on gaining insights into spending habits and patterns throughout the year 2021 using family PayPal transaction data. By categorizing transactions into distinct groups such as services, healthcare, travel, lifestyle, and household expenses, the project aims to provide a comprehensive overview of spending behaviors. Through data processing, transformation, and visualization techniques, the project analyzes transaction trends over time, spending patterns by merchant category, top merchants by spending, transaction status distribution, and account balance trends. Ultimately, the project aims to empower individuals or households with valuable insights to make informed financial decisions and optimize financial management practices.

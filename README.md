@@ -1,13 +1,13 @@
 # PaypalTransactionsDataAnalysis2021
 ## OVERVIEW
-The purpose of the project "2021 PayPal Transactions Data Analysis: Categorizing and Analyzing Spending Patterns" is to gain insights into the spending habits and patterns of a household or individual throughout the year 2021 based on PayPal transaction data. By categorizing transactions into meaningful groups such as services, healthcare, travel, lifestyle, and household expenses, the project aims to provide a comprehensive overview of where and how money was spent over the course of the year 2021.
+The overview of the project "2021 PayPal Transactions Data Analysis: Categorizing and Analyzing Spending Patterns" is to gain insights into the spending habits and patterns of a household or individual throughout the year 2021 based on PayPal transaction data. By categorizing transactions into meaningful groups such as services, healthcare, travel, lifestyle, and household expenses, the project aims to provide a comprehensive overview of where and how money was spent over the course of the year 2021.
 ## Data Source
 -  My family Paypal transaction data for the year 2021 (2021_PAYPAL.CSV)
 ## Data Processing and Data Transformation
 - Data Cleaning:
     - Handling Missing Values: Identifying and dealing with any missing or null values in the dataset. 
     - Removing Unwanted Columns: Removing columns that are unnecessary or irrelevant for the analysis
-- Data ransformation:
+- Data Transformation:
     - Categorization: Assigning categories to transactions based on merchant names to classify spending into distinct categories such as services, healthcare, travel, lifestyle, and household expenses.
 ## Replicating the Analysis
  There is one  jupyter notebook, paypal_2021_demo.ipynb
@@ -46,3 +46,12 @@ The purpose of the project "2021 PayPal Transactions Data Analysis: Categorizing
  - Determine which merchants you spent the most with during the year and analyze your spending behavior with each merchant
  - Visualize the distribution of transaction statuses.
  - Generate a line graph showing how your account balance changed over time as a result of the transactions.
+
+ ## Summary
+ The project "2021 PayPal Transactions Data Analysis: Categorizing and Analyzing Spending Patterns" focuses on gaining insights into spending habits and patterns throughout the year 2021 using family PayPal transaction data. By categorizing transactions into distinct groups such as services, healthcare, travel, lifestyle, and household expenses, the project aims to provide a comprehensive overview of spending behaviors. Through data processing, transformation, and visualization techniques, the project analyzes transaction trends over time, spending patterns by merchant category, top merchants by spending, transaction status distribution, and account balance trends. Ultimately, the project aims to empower individuals or households with valuable insights to make informed financial decisions and optimize financial management practices.
+
+
+
+
+
+
